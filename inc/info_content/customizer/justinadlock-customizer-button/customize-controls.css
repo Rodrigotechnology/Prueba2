@@ -1,0 +1,48 @@
+#accordion-section-themes+li#accordion-section-superb_pixels_theme.control-section {
+    border-top:0px;
+}
+
+.info-superb-content-customizer-wrapper {
+    border-left: 6px solid #9625fe;
+    background: #fff;
+    margin:5px 0 20px;
+    padding:20px;
+}
+
+.info-superb-content-customizer-wrapper h3.accordion-section-title,
+.info-superb-content-customizer-wrapper .customize-control-title {
+    margin:0px;
+    padding:0px;
+    border:0px !important;
+    color:#000 !important;
+    font-size: 15px;
+    line-height: 14px;
+    font-weight:700;
+}
+
+.info-superb-content-customizer-wrapper p {
+    margin:8px 0 15px;
+    font-size:13px;
+    line-height:130%;
+    color:#6d6d6d;
+}
+.info-superb-content-customizer-wrapper a.button,
+.info-superb-content-customizer-wrapper a.button:hover,
+.info-superb-content-customizer-wrapper a.button:active,
+.info-superb-content-customizer-wrapper a.button:visited {
+    background: rgb(71,21,226) !important;
+    background: -moz-linear-gradient(0deg, rgba(71,21,226,1) 0%, rgba(145,35,254,1) 100%) !important;
+    background: -webkit-linear-gradient(0deg, rgba(71,21,226,1) 0%, rgba(145,35,254,1) 100%) !important;
+    background: linear-gradient(0deg, rgba(71,21,226,1) 0%, rgba(145,35,254,1) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4715e2",endColorstr="#9123fe",GradientType=1) !important;
+    border:0px !important;
+    color:#fff !important;
+    padding:5px !important;
+    text-align:center !important;
+    font-size:13px !important;
+    font-weight:700 !important;
+    color:#fff !important;
+    width:100% !important;
+    max-width:100% !important;
+    border-radius: 6px !important;
+}
