@@ -1,0 +1,797 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Superb Pixels\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-05 13:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1.1\n"
+"X-Domain: superb-pixels"
+
+#: footer.php:36
+msgid " SuperbThemes"
+msgstr ""
+
+#: footer.php:36
+msgid " | WordPress Theme by"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: template-parts/content-single.php:34 template-parts/content.php:80
+#: inc/template-tags.php:193
+msgid ", "
+msgstr ""
+
+#: src/customizer/class-controls.php:398
+msgid "1-Column Layout"
+msgstr ""
+
+#: src/customizer/class-controls.php:399
+msgid "2-Column Layout"
+msgstr ""
+
+#: src/customizer/class-controls.php:401
+msgid "2-Column Masonry Layout"
+msgstr ""
+
+#: src/customizer/class-controls.php:400
+msgid "3-Column Layout"
+msgstr ""
+
+#: src/customizer/class-controls.php:402
+msgid "3-Column Masonry Layout"
+msgstr ""
+
+#: functions.php:131 functions.php:140 functions.php:150 functions.php:161
+msgid "Add widgets here."
+msgstr ""
+
+#: src/customizer/class-controls.php:159
+msgid ""
+"Add your MetaSlider slider shortcode in this field to use the Slider as your "
+"header. This will be used instead of the default theme header."
+msgstr ""
+
+#: src/customizer/class-controls.php:279
+msgid "Author Image"
+msgstr ""
+
+#: src/customizer/class-controls.php:288
+msgid "Author Name"
+msgstr ""
+
+#: src/customizer/class-controls.php:296
+msgid "Author Tagline"
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:22
+msgid "Base Background"
+msgstr ""
+
+#: src/customizer/class-sections.php:69
+msgid "Blog"
+msgstr ""
+
+#: src/customizer/class-controls.php:393
+msgid "Blog Feed Column Layout"
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:29
+msgid "Boxed Background Color"
+msgstr ""
+
+#: src/customizer/class-controls.php:123
+msgid "Boxed Layout"
+msgstr ""
+
+#: src/customizer/class-controls.php:204
+msgid "Button Link"
+msgstr ""
+
+#: src/customizer/class-controls.php:198
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-search.php:34
+msgid "By"
+msgstr ""
+
+#: src/customizer/class-sections.php:28
+msgid "Colors"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "Comment"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/content.php:111
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/content-search.php:60
+msgid "Continue reading"
+msgstr ""
+
+#: src/customizer/class-sections.php:93
+msgid "Copyright"
+msgstr ""
+
+#: src/customizer/class-controls.php:378
+msgid "Copyright Text"
+msgstr ""
+
+#: src/customizer/class-sections.php:76
+msgid "Customize Posts and Pages."
+msgstr ""
+
+#: src/customizer/class-sections.php:70
+msgid "Customize the blog feed."
+msgstr ""
+
+#: src/customizer/class-sections.php:29
+msgid "Customize the color scheme of the theme."
+msgstr ""
+
+#: src/customizer/class-sections.php:94
+msgid "Customize the copyright text in the footer."
+msgstr ""
+
+#: src/customizer/class-sections.php:58
+msgid ""
+"Customize the default theme header. These settings do not apply if you're "
+"using the MetaSlider header."
+msgstr ""
+
+#: src/customizer/class-sections.php:36
+msgid "Customize the general layout."
+msgstr ""
+
+#: src/customizer/class-sections.php:64
+msgid "Customize the header widgets.."
+msgstr ""
+
+#: src/customizer/class-sections.php:43
+msgid "Customize the navigation."
+msgstr ""
+
+#: src/customizer/class-sections.php:82
+msgid "Customize the sidebar."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:59
+msgid "Dark Color"
+msgstr ""
+
+#: src/customizer/class-customizer.php:87
+msgid "Default Header"
+msgstr ""
+
+#: src/customizer/class-controls.php:131
+msgid "Disable Boxed Layout on Mobile"
+msgstr ""
+
+#: src/customizer/class-controls.php:482
+msgid "Display About The Author Section"
+msgstr ""
+
+#: src/customizer/class-controls.php:454
+msgid "Display Placeholder Featured Image"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:230
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: src/customizer/class-controls.php:180
+msgid "Enabling this option will display the header on all pages."
+msgstr ""
+
+#: src/customizer/class-controls.php:166
+msgid "Enabling this option will display the MetaSlider header on all pages."
+msgstr ""
+
+#: src/customizer/class-controls.php:417
+msgid ""
+"Enabling this setting will add a \"Continue reading\" button below every "
+"blog post excerpt, if \"Show Full Posts\" is not enabled."
+msgstr ""
+
+#: src/customizer/class-controls.php:455
+msgid ""
+"Enabling this setting will display a placeholder featured image for all "
+"posts that do not have a featured image set."
+msgstr ""
+
+#: src/customizer/class-controls.php:483
+msgid ""
+"Enabling this setting will display a section with information about the "
+"author."
+msgstr ""
+
+#: src/customizer/class-controls.php:409
+msgid "Enabling this setting will display the full posts instead of excerpts."
+msgstr ""
+
+#: src/customizer/class-controls.php:365
+msgid "Enabling this setting will hide the \"Go To Top\" button in the footer."
+msgstr ""
+
+#: src/customizer/class-controls.php:497
+msgid ""
+"Enabling this setting will hide the \"Next\" and \"Previous\" Post "
+"Pagination Buttons."
+msgstr ""
+
+#: src/customizer/class-controls.php:426
+msgid "Enabling this setting will hide the author name from the byline."
+msgstr ""
+
+#: src/customizer/class-controls.php:504
+msgid "Enabling this setting will hide the categories- and tags sections."
+msgstr ""
+
+#: src/customizer/class-controls.php:211
+msgid ""
+"Enabling this setting will hide the header button on mobile- and other small "
+"screen devices."
+msgstr ""
+
+#: src/customizer/class-controls.php:218
+msgid ""
+"Enabling this setting will hide the header tagline on mobile- and other "
+"small screen devices."
+msgstr ""
+
+#: src/customizer/class-controls.php:447
+msgid ""
+"Enabling this setting will hide the post category shown on the featured "
+"image."
+msgstr ""
+
+#: src/customizer/class-controls.php:490
+msgid "Enabling this setting will hide the related posts section."
+msgstr ""
+
+#: src/customizer/class-controls.php:343
+msgid ""
+"Enabling this setting will hide the sidebar on the blog feed, search page "
+"and archive pages and use the full width of the page for the page content."
+msgstr ""
+
+#: src/customizer/class-controls.php:351
+msgid ""
+"Enabling this setting will hide the sidebar on the posts and pages and use "
+"the full width of the page for the page content."
+msgstr ""
+
+#: src/customizer/class-controls.php:336
+msgid "Enabling this setting will hide the sidebar on WooCommerce pages."
+msgstr ""
+
+#: src/customizer/class-controls.php:433 src/customizer/class-controls.php:469
+msgid "Featured Image Layout"
+msgstr ""
+
+#: src/customizer/class-sections.php:87
+msgid "Footer"
+msgstr ""
+
+#: src/customizer/class-sections.php:88
+msgid "Footer description here"
+msgstr ""
+
+#: functions.php:148
+msgid "Footer Widget"
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:15
+msgid "Foreground"
+msgstr ""
+
+#: src/customizer/class-controls.php:273
+msgid "Full Navigation Layout"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: src/customizer/class-sections.php:35
+msgid "General"
+msgstr ""
+
+#: 404.php:28
+msgid "Go to homepage"
+msgstr ""
+
+#: src/customizer/class-sections.php:57 src/customizer/class-panels.php:36
+msgid "Header"
+msgstr ""
+
+#: src/customizer/class-panels.php:37
+msgid "Header Customization"
+msgstr ""
+
+#: functions.php:159
+msgid "Header Widget"
+msgstr ""
+
+#: src/customizer/class-sections.php:63
+msgid "Header Widgets"
+msgstr ""
+
+#: src/customizer/class-controls.php:364
+msgid "Hide \"Go To Top\" Button"
+msgstr ""
+
+#: src/customizer/class-controls.php:425
+msgid "Hide Author Name from Byline"
+msgstr ""
+
+#: src/customizer/class-controls.php:503
+msgid "Hide Categories and Tags"
+msgstr ""
+
+#: src/customizer/class-controls.php:446
+msgid "Hide Category"
+msgstr ""
+
+#: src/customizer/class-controls.php:210
+msgid "Hide Header Button on Mobile"
+msgstr ""
+
+#: src/customizer/class-controls.php:217
+msgid "Hide Header Tagline on Mobile"
+msgstr ""
+
+#: src/customizer/class-controls.php:496
+msgid "Hide Next/Previous Post Buttons"
+msgstr ""
+
+#: src/customizer/class-controls.php:489
+msgid "Hide Related Posts"
+msgstr ""
+
+#: src/customizer/class-controls.php:257
+msgid "Hide Shopping Cart"
+msgstr ""
+
+#: src/customizer/class-controls.php:342
+msgid "Hide Sidebar on Blog Feed, Search Page and Archive Pages"
+msgstr ""
+
+#: src/customizer/class-controls.php:350
+msgid "Hide Sidebar on Posts & Pages"
+msgstr ""
+
+#: src/customizer/class-controls.php:335
+msgid "Hide Sidebar on WooCommerce Pages"
+msgstr ""
+
+#: src/customizer/class-controls.php:244
+msgid "Hide Tagline Only"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://superbthemes.com/"
+msgstr ""
+
+#: src/customizer/class-controls.php:280
+msgid ""
+"If the Full Navigation Layout is active, sets the author image in the top "
+"left side of the navigation layout."
+msgstr ""
+
+#: src/customizer/class-controls.php:289
+msgid ""
+"If the Full Navigation Layout is active, sets the author name in the top "
+"left side of the navigation."
+msgstr ""
+
+#: src/customizer/class-controls.php:297
+msgid ""
+"If the Full Navigation Layout is active, sets the author tagline in the top "
+"left side of the navigation."
+msgstr ""
+
+#: src/customizer/class-controls.php:313
+msgid ""
+"If the Full Navigation Layout is active, sets the link of the button in the "
+"top right side of the navigation."
+msgstr ""
+
+#: src/customizer/class-controls.php:305
+msgid ""
+"If the Full Navigation Layout is active, sets the text of the button in the "
+"top right side of the navigation."
+msgstr ""
+
+#: 404.php:23
+msgid "It seems like this page is no longer here"
+msgstr ""
+
+#: template-parts/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: 404.php:34
+msgid "Latest posts"
+msgstr ""
+
+#: src/customizer/class-panels.php:21
+msgid "Layout"
+msgstr ""
+
+#: src/customizer/class-panels.php:22
+msgid "Layout Customization"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:213
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:52
+msgid "Light Color"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:200
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: src/customizer/class-controls.php:230
+msgid "Logo Height"
+msgstr ""
+
+#: src/customizer/class-customizer.php:82
+msgid "Logo Text Color"
+msgstr ""
+
+#: src/customizer/class-sections.php:50
+msgid "MetaSlider Header"
+msgstr ""
+
+#: src/customizer/class-sections.php:51
+msgid ""
+"MetaSlider Header requires the MetaSlider plugin. Using the MetaSlider "
+"header will replace the default theme header."
+msgstr ""
+
+#: src/customizer/class-controls.php:158
+msgid "MetaSlider Shortcode"
+msgstr ""
+
+#: src/customizer/class-sections.php:42 src/customizer/class-panels.php:31
+msgid "Navigation"
+msgstr ""
+
+#: src/customizer/class-panels.php:32
+msgid "Navigation Customization"
+msgstr ""
+
+#: src/customizer/class-controls.php:266
+msgid "Navigation Layout"
+msgstr ""
+
+#: functions.php:267
+msgid "Next"
+msgstr ""
+
+#: single.php:46
+msgid "Next post"
+msgstr ""
+
+#: template-parts/content-none.php:20 template-parts/content-none.php:39
+#: template-parts/content-none.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-search.php:34
+msgid "on"
+msgstr ""
+
+#. 1: title.
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: src/customizer/class-controls.php:144
+msgid "Only Display Header Widgets on Front Page"
+msgstr ""
+
+#: 404.php:22
+msgid "Ooops!"
+msgstr ""
+
+#: src/customizer/class-controls.php:319
+msgid "Open Link in new Window/Tab"
+msgstr ""
+
+#: src/customizer/utils/class-customizer-refocus-control.php:24
+msgid ""
+"Other customization sections are available for this element. Click the "
+"buttons below to switch to other customization sections."
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder Template"
+msgstr ""
+
+#: template-parts/content-search.php:52 template-parts/content-single.php:51
+#: template-parts/content.php:103
+msgid "Pages:"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:196
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: src/customizer/class-sections.php:75
+msgid "Posts / Pages"
+msgstr ""
+
+#: functions.php:268
+msgid "Previous"
+msgstr ""
+
+#: single.php:45
+msgid "Previous post"
+msgstr ""
+
+#: functions.php:60 src/customizer/class-colorscheme.php:36
+msgid "Primary"
+msgstr ""
+
+#: template-parts/content.php:111
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Related Post"
+msgstr ""
+
+#: single.php:80
+msgid "Related Posts"
+msgstr ""
+
+#: src/customizer/class-controls.php:379
+msgid "Replaces the copyright text in the footer."
+msgstr ""
+
+#: src/customizer/class-controls.php:312
+msgid "Right-Aligned Button Link"
+msgstr ""
+
+#: src/customizer/class-controls.php:304
+msgid "Right-Aligned Button Text"
+msgstr ""
+
+#. %s: search query.
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:44
+msgid "Secondary"
+msgstr ""
+
+#: src/customizer/class-controls.php:394
+msgid "Select the layout of the columns on your blog feed."
+msgstr ""
+
+#: src/customizer/class-controls.php:434 src/customizer/class-controls.php:470
+msgid "Select the layout of the featured images on your blog feed."
+msgstr ""
+
+#: src/customizer/class-controls.php:267
+msgid "Select the layout of the navigation area on your website."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:30
+msgid ""
+"Sets the background color for boxed elements when the boxed general layout "
+"setting is enabled."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:23
+msgid "Sets the base background colors for the theme."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:60
+msgid "Sets the dark colors for the theme."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:16
+msgid "Sets the foreground colors for the theme."
+msgstr ""
+
+#: src/customizer/class-controls.php:231
+msgid "Sets the height limit for the logo image, if once is selected."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:53
+msgid "Sets the light colors for the theme."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:37
+msgid "Sets the primary colors for the theme."
+msgstr ""
+
+#: src/customizer/class-colorscheme.php:45
+msgid "Sets the secondary colors for the theme."
+msgstr ""
+
+#: src/customizer/class-customizer.php:83
+msgid "Sets the text colors for the logo."
+msgstr ""
+
+#: src/customizer/class-controls.php:416
+msgid "Show \"Continue reading\" Button"
+msgstr ""
+
+#: src/customizer/class-controls.php:408
+msgid "Show Full Posts"
+msgstr ""
+
+#: src/customizer/class-controls.php:165 src/customizer/class-controls.php:179
+msgid "Show header on all pages"
+msgstr ""
+
+#: functions.php:129 src/customizer/class-sections.php:81
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: src/customizer/class-controls.php:272
+msgid "Small Navigation Layout"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the theme
+msgid "Superb Pixels"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Superb Pixels is a responsive WordPress theme for blogs, newspapers, and "
+"content creators. The theme's elegant and minimalist look makes it an "
+"attractive choice for bloggers and writers who focuses on images, writing, "
+"and photography. In the preview, we have made a food / cooking blog, it is, "
+"however just a personal blog theme that can be used for anything such as "
+"lifestyle, DIY, health, travel, finance, fashion, or review-type of website. "
+"It is a multi-purpose theme focused on blogging. It's easy to use and "
+"beginner-friendly, so after installing it you should shortly be sharing "
+"recipes, fitness tips, or showing off your portfolio. Monetization through "
+"AdSense and other types of affiliate marketing are important to a lot of "
+"online writers, because of that we've spent a big amount of time on making "
+"it fast, user friendly, and fully SEO optimized (Search engine optimization "
+"together with making it WooCommerce and Easy Digital Downloads compatible so "
+"you can create an eCommerce store/webshop. It's GDPR compliant and works "
+"with all popular page builders such as Elementor, Beaver Builder, Brizy, "
+"Visual Composer, SiteOrigin, Divi, and more."
+msgstr ""
+
+#. Author of the theme
+msgid "Superbthemescom"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:203
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: src/customizer/class-controls.php:192
+msgid "Tagline"
+msgstr ""
+
+#: src/customizer/class-controls.php:199
+msgid "The button text displayed in your header."
+msgstr ""
+
+#: src/customizer/class-controls.php:205
+msgid "The link used by the button in your header."
+msgstr ""
+
+#: src/customizer/class-controls.php:193
+msgid "The tagline text displayed in your header."
+msgstr ""
+
+#: src/customizer/class-controls.php:187
+msgid "The title text displayed in your header."
+msgstr ""
+
+#: src/customizer/class-controls.php:186
+msgid "Title"
+msgstr ""
+
+#: footer.php:45
+msgid "To Top"
+msgstr ""
+
+#: src/modules/navigation/class-navigation-menu.php:33
+msgid "View your shopping cart"
+msgstr ""
+
+#: src/customizer/class-controls.php:132
+msgid ""
+"When this setting is enabled, and Boxed Layout is enabled, the boxed layout "
+"will not be applied on mobile devices and other low-width screens."
+msgstr ""
+
+#: src/customizer/class-controls.php:124
+msgid "When this setting is enabled, elements on the website will be boxed."
+msgstr ""
+
+#: src/customizer/class-controls.php:145
+msgid ""
+"When this setting is enabled, header widgets will only be shown on the front "
+"page."
+msgstr ""
+
+#: src/customizer/class-controls.php:320
+msgid ""
+"When this setting is enabled, the link of the button will be opened in a new "
+"window/tab when clicked."
+msgstr ""
+
+#: src/customizer/class-controls.php:258
+msgid ""
+"When WooCommerce is active, enabling this setting will hide the shopping "
+"cart in the navigation."
+msgstr ""
+
+#: src/customizer/class-panels.php:26
+msgid "WooCommerce"
+msgstr ""
+
+#: src/customizer/class-panels.php:27
+msgid "WooCommerce Customization"
+msgstr ""
+
+#: functions.php:138
+msgid "WooCommerce Sidebar"
+msgstr ""
